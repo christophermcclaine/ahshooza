@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://fouchohna.sp0n.com/sitemap.xml
